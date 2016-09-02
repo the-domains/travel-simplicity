@@ -19,6 +19,8 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5867b00-7ec2-491c-a470-f1027abfe042.eps
 name: Travel Simplicity
 cta:
   domain: null
