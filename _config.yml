@@ -1,19 +1,4 @@
-name: Travel Simplicity
-favicon: null
-layout_spectrum: 0.27849981375038624
 typography_spectrum: 0.2503940158057958
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -25,4 +10,20 @@ color:
   lightness: 0.9481819397769868
   saturation: 0.8312200419604778
   rhythmicContrast: 0.9280377111863345
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.27849981375038624
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Travel Simplicity
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: WELCOME
 purpose: []
